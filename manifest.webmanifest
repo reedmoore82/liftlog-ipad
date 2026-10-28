@@ -1,0 +1,9 @@
+{
+  "name": "LiftLog",
+  "short_name": "LiftLog",
+  "description": "Three-day dumbbell and bench workout tracker.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#102a43"
+}
